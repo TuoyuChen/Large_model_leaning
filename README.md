@@ -1,1 +1,1 @@
-# learning notes
+# My learning notes about the large model 
